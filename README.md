@@ -1,5 +1,5 @@
 # shenbao-MeetingPictures
-shenbao  我参加的会议照片及ppt等
+shenbao  会议照片及ppt等
 
 列表
 
