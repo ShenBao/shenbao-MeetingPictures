@@ -1,5 +1,5 @@
 # shenbao-MeetingPictures
-shenbao  会议照片及ppt等
+shenbao  参会照片及ppt等
 
 列表
 
