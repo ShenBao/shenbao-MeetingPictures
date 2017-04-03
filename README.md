@@ -1,6 +1,9 @@
 # shenbao-MeetingPictures
 shenbao  参会照片及ppt等
 
+PS:一直没有上传，最近（20170327）整理手机文件，所以就上传了。。。
+
+
 列表
 
 [2016-12-08 谷歌开发者大会（北京站）](https://goo.gl/photos/smeXHqbUJKKDuEih7)<br />
